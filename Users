@@ -1,1 +1,10 @@
+1. Credenciales de prueba:
+Con base en el código e interfaz creado, el sistema está validando dos tipos de usuarios:
 
+Administrador:
+Usuario: admin
+Contraseña: admin123
+
+Usuario normal:
+Usuario: usuario
+Contraseña: usuario123
